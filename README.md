@@ -3,8 +3,7 @@
 # Flask Server avec Diverses Routes
 
 ## Description
-
-Ce projet est un serveur Flask qui expose plusieurs routes, chacune représentant un concept ou une analogie liée aux réseaux, véhicules, commerces, etc. Le serveur est conçu pour être un exemple pédagogique illustrant différentes fonctionnalités et concepts de Flask.
+ville en reseau avec toutes les télécommunications de la ville
 
 ## Installation
 
